@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Ad Generator",
+  "description": "An AI-powered tool to generate stunning product advertisement images. Upload a product photo, choose a model and a vibe, and let AI create four unique ad concepts for you.",
+  "requestFramePermissions": []
+}
